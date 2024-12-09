@@ -182,8 +182,7 @@ npm -v
 克隆项目到本地：
 
 ```bash
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/hyxtj/weboj.git
 ```
 
 #### 3. 安装项目依赖
